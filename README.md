@@ -210,9 +210,9 @@ EN_GLOSS (69 plain-English glosses)           ← Anti-circular definitions
 
 ---
 
-## 🎨 Screenshots
+## 🎨 Features Screenshots
 
-> *(Thêm screenshots vào folder `/docs` và link ở đây)*
+> *(Đây là một số tính năng đã được screenshots)*
 
 | Vocab Daily | Quiz Phase 4 (Collocation) | Sentence Feedback |
 |---|---|---|
