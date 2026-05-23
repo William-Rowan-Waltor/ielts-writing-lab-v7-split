@@ -2,6 +2,7 @@
 
 This is a separated version of the original standalone file:
 
+- Link: https://william-rowan-waltor.github.io/ielts-writing-lab-v7-split/
 - Source: `D:/Downloads/ielts-writing-lab-v7.html`
 - App entry: `index.html`
 - Styles: `styles.css`
