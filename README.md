@@ -16,6 +16,8 @@
 
 **IELTS Writing Lab** là một công cụ luyện thi IELTS Academic Writing Task 1 hoàn chỉnh, chạy trong một file HTML duy nhất — không cần server, không cần install, mở browser là dùng.
 
+**Link truy cập bản web: **https://william-rowan-waltor.github.io/ielts-writing-lab-v7-split/
+
 Khác với các app IELTS thông thường chỉ làm **1 chuyện** (vocab flashcard, hoặc essay grader), Lab này tạo ra **vòng lặp học khép kín**:
 
 ```
