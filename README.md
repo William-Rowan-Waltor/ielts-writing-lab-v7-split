@@ -216,7 +216,7 @@ EN_GLOSS (69 plain-English glosses)           ← Anti-circular definitions
 
 | Vocab Daily | Quiz Phase 4 (Collocation) | Sentence Feedback |
 |---|---|---|
-| ![Vocab](<img width="1918" height="908" alt="Image" src="https://github.com/user-attachments/assets/e54b9cbe-4825-4621-a506-5bb4f665b9e8" />) | ![Quiz](<img width="1919" height="902" alt="Image" src="https://github.com/user-attachments/assets/2ec8d74f-d494-4d56-8011-b1b2d99da814" />) | ![Feedback](<img width="1282" height="911" alt="Image" src="https://github.com/user-attachments/assets/e2bc8a02-8207-48d2-84a1-76c3193ed72c" />) |
+| ![Vocab](screenshots/Vocab.png) | ![Quiz](<img width="1919" height="902" alt="Image" src="https://github.com/user-attachments/assets/2ec8d74f-d494-4d56-8011-b1b2d99da814" />) | ![Feedback](<img width="1282" height="911" alt="Image" src="https://github.com/user-attachments/assets/e2bc8a02-8207-48d2-84a1-76c3193ed72c" />) |
 
 | Dashboard with Heatmap | Word Debt Panel | Revision Comparison |
 |---|---|---|
