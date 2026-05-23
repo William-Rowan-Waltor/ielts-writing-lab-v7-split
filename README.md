@@ -330,15 +330,6 @@ MIT License — free để dùng cho cá nhân và thương mại.
 
 ---
 
-## 👤 Author
-
-**Đàm Nhật Minh**
-
-- Built with Claude (Anthropic) as pair-programming partner
-- Methodology: Feynman teaching + iterative engineering review
-
----
-
 ## 🙏 Acknowledgments
 
 - **AWL (Academic Word List)** by Averil Coxhead — the 570-word backbone
