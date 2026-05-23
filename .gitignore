@@ -1,0 +1,16 @@
+# Private local data
+data/app-state.json
+data/*.json
+
+# Runtime logs / local temp output
+server.log
+server.err
+.edge-*/
+*.png
+
+# Common local files
+node_modules/
+.DS_Store
+Thumbs.db
+# One-off local conversion helper
+scripts/regenerate-source-with-storage.mjs
